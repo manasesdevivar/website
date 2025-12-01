@@ -1,0 +1,13 @@
+title: My Simple Blog
+description: A clean blog powered by Jekyll and GitHub Pages
+theme: null
+markdown: kramdown
+
+# GitHub Pages settings
+plugins:
+  - jekyll-feed
+
+# Build settings
+collections:
+  posts:
+    output: true
